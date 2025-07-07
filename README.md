@@ -45,8 +45,4 @@ In summary, the plan involves developing a user-friendly bus ticket booking syst
 
 # Run Locally
 
-The [Contributing.md](Contributing.md) contains the step-by-step procedure for contributing to this project.
-
-# License
-
-IIITDM Jabalpur
+The [Contributing.md](Contributing.md) contains the step-by-step procedure for contributing to this project.  
